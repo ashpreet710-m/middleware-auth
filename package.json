@@ -1,0 +1,15 @@
+{
+  "name": "middleware-auth",
+  "version": "1.0.0",
+  "description": "Express.js Middleware for Logging and Bearer Token Authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "middleware", "authentication", "logging"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
